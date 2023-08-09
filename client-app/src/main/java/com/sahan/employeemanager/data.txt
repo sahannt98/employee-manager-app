@@ -1,0 +1,21 @@
+{
+    "email": "daniel@gmail.com",
+    "imageUrl": "https://i.pravatar.cc/300",
+    "jobTitle": "Python developer",
+    "name": "Daniel Craig",
+    "phone": "0768945312"
+}
+{
+    "email": "cristine@gmail.com",
+    "imageUrl": "https://i.pravatar.cc/300",
+    "jobTitle": "Java developer",
+    "name": "Christine Smith",
+    "phone": "0784546123"
+}
+{
+    "email": "dave@gmail.com",
+    "imageUrl": "https://i.pravatar.cc/300",
+    "jobTitle": "UI/UX",
+    "name": "Dave Rogers",
+    "phone": "0712233489"
+}
