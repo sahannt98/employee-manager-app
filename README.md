@@ -6,5 +6,5 @@ A responsive and attractive single-page interface that showcases employees, and 
 
 #### Tech: Java, Spring Boot, Angular, Bootstrap
 
-###UI
+## UI
 ![image](https://github.com/sahannt98/employee-manager-app/assets/78171983/362b7514-75be-492e-9049-5367bdfc519e)
